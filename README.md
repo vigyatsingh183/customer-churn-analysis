@@ -1,19 +1,20 @@
-# E-Commerce Sales Data Analysis
+# Customer Churn Analysis
 
 ## 📊 Project Overview
 
-This project analyzes e-commerce sales data using Python to identify sales trends, revenue performance, top-performing products, and category-level business insights.
+This project analyzes customer churn data using Python to understand why customers leave a subscription service.
 
-The goal is to transform raw sales data into meaningful information that can support data-driven business decisions.
+The analysis focuses on identifying patterns related to contract type, customer tenure, monthly charges, and support interactions. The goal is to generate useful business insights that can help improve customer retention.
 
 ## 🎯 Objectives
 
-- Analyze overall sales and revenue performance
-- Identify the best-performing product categories
-- Find top-performing products
-- Analyze monthly revenue trends
-- Understand sales performance across different cities
-- Create visualizations to communicate business insights
+- Calculate the overall customer churn rate
+- Analyze churn based on contract type
+- Analyze churn based on customer tenure
+- Compare monthly charges between churned and retained customers
+- Analyze customer support interactions
+- Identify factors associated with customer churn
+- Create visualizations to communicate findings
 
 ## 🛠️ Technologies Used
 
@@ -21,16 +22,16 @@ The goal is to transform raw sales data into meaningful information that can sup
 - Pandas
 - Matplotlib
 - CSV Data
-- Data Analysis
+- Exploratory Data Analysis (EDA)
 - Data Visualization
 
 ## 📁 Project Structure
 
 ```text
-ecommerce-sales-analysis/
+customer-churn-analysis/
 │
 ├── data/
-│   └── sales_data.csv
+│   └── customer_churn.csv
 │
 ├── analysis.py
 ├── requirements.txt
