@@ -1,0 +1,31 @@
+Customer_ID,Gender,Age,Tenure_Months,Contract,Monthly_Charges,Support_Calls,Churn
+C001,Male,24,3,Month-to-month,799,4,Yes
+C002,Female,31,24,One year,599,1,No
+C003,Male,45,8,Month-to-month,899,5,Yes
+C004,Female,29,36,Two year,499,0,No
+C005,Male,52,6,Month-to-month,999,6,Yes
+C006,Female,41,18,One year,699,2,No
+C007,Male,27,12,Month-to-month,849,3,No
+C008,Female,36,4,Month-to-month,949,5,Yes
+C009,Male,48,48,Two year,549,1,No
+C010,Female,23,2,Month-to-month,799,4,Yes
+C011,Male,34,20,One year,649,1,No
+C012,Female,39,30,Two year,579,0,No
+C013,Male,56,5,Month-to-month,1099,7,Yes
+C014,Female,28,14,One year,749,2,No
+C015,Male,44,9,Month-to-month,929,4,Yes
+C016,Female,33,27,Two year,529,1,No
+C017,Male,26,7,Month-to-month,899,3,Yes
+C018,Female,47,42,Two year,499,0,No
+C019,Male,38,16,One year,699,2,No
+C020,Female,25,3,Month-to-month,849,5,Yes
+C021,Male,50,22,One year,679,1,No
+C022,Female,35,11,Month-to-month,899,4,Yes
+C023,Male,43,33,Two year,559,0,No
+C024,Female,30,19,One year,699,2,No
+C025,Male,22,1,Month-to-month,999,6,Yes
+C026,Female,40,26,Two year,539,1,No
+C027,Male,37,10,Month-to-month,879,3,No
+C028,Female,54,5,Month-to-month,1049,5,Yes
+C029,Male,32,29,Two year,519,0,No
+C030,Female,46,13,One year,729,2,No
